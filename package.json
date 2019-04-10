@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
